@@ -1,0 +1,1 @@
+DATABASE_URL="mysql+pymysql://root:vasanti3013@localhost/Employee_db"
